@@ -1,6 +1,6 @@
 {
   "name": "oldschool-pricecheck",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "description": "A wrapper for the oldschool runescape Grand Exchange API.",
   "author": "Dane Miller <khadane.miller@gmail.com>",
