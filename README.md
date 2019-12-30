@@ -1,8 +1,10 @@
 ## API wrapper for oldschool runescape grand exchange
 
-### Install with NPM
+### Install with NPM or Yarn
 
 `npm i oldschool-pricechecker`
+
+`yarn add oldschool-pricechecker`
 
 ### API
 
