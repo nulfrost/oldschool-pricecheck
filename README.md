@@ -14,7 +14,7 @@ os.item.byName('whip').then(data => data.map(item => console.log(item)));
 
 Response:
 
-```json
+```javascript
 [
     {
   icon: 'http://services.runescape.com/m=itemdb_oldschool/1576515589238_obj_sprite.gif?id=4151',
