@@ -6,6 +6,6 @@
   "author": "Dane Miller <khadane.miller@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "got": "^10.2.0"
+    "got": "^11.8.5"
   }
 }
